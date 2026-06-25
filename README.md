@@ -6,3 +6,4 @@
 - [3주차 정리](https://velog.io/@dolggul2/WEEK3-WIL)
 - [4주차 정리](https://velog.io/@dolggul2/WEEK4-WIL)
 - [5주차 정리](https://velog.io/@dolggul2/WEEK5-WIL)
+- [6주차 정리](https://velog.io/@dolggul2/WEEK6-WIL)
