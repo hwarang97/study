@@ -7,4 +7,5 @@
 - [4주차 정리](https://velog.io/@dolggul2/WEEK4-WIL)
 - [5주차 정리](https://velog.io/@dolggul2/WEEK5-WIL)
 - [6주차 정리](https://velog.io/@dolggul2/WEEK6-WIL)
+- (8주차 정리)(https://velog.io/@dolggul2/WIL-week8)
 - [9주차 정리](https://velog.io/@dolggul2/WIL-week9)
