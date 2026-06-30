@@ -10,3 +10,4 @@
 - [8주차 정리](https://velog.io/@dolggul2/WIL-week8)
 - [9주차 정리](https://velog.io/@dolggul2/WIL-week9)
 - [9-10주자 정리](https://velog.io/@dolggul2/WIL-Week-10-11)
+- [11-12주차 정리](https://velog.io/@dolggul2/WIL-week-11-12)
