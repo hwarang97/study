@@ -14,3 +14,4 @@
 - [13-14주차 정리](https://velog.io/@dolggul2/WIL-week-13-14)
 - [15-16주차 정리](https://velog.io/@dolggul2/WIL-week15-16)
 - [바이브코딩 문제 발생](https://app.notion.com/p/392b3160e4c080c9b84acc868cac3fd2?source=copy_link)
+- [나만무 경험](https://app.notion.com/p/38fb3160e4c080519d77f74fa0c04672)
