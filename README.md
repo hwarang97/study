@@ -22,4 +22,5 @@
 ### Review
 Pintos
 - [thread]
+- [process]
 - [MLFQS]
