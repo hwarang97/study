@@ -23,4 +23,5 @@
 Pintos
 - [thread]
 - [process]
+- [syscall]
 - [MLFQS]
