@@ -22,6 +22,7 @@
 ### Review
 Pintos
 - [thread]
+  - [syncronization](https://app.notion.com/p/syncronization-39ab3160e4c080caa18fe558b2f0e38b)
 - [process]
 - [syscall]
 - [MLFQS]
