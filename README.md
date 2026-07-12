@@ -21,7 +21,8 @@
 
 ### Review
 Pintos
-- [thread]
+- [project1: thread]
+  - [thread](https://app.notion.com/p/thread-39ab3160e4c080cf98f3ea0b57c529c1)
   - [syncronization](https://app.notion.com/p/syncronization-39ab3160e4c080caa18fe558b2f0e38b)
 - [process]
 - [syscall]
