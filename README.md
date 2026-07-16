@@ -19,7 +19,7 @@
 - [바이브코딩 문제 발생](https://app.notion.com/p/392b3160e4c080c9b84acc868cac3fd2?source=copy_link)
 - [업무분담/프론트와 백엔드를 나누는 이유](https://app.notion.com/p/38fb3160e4c080519d77f74fa0c04672)
 - [평가기준 결정]()
-- [부하테스트]()
+- [저사양 기기를 위한 브라우저 부담 완화]()
 
 ### Review
 Pintos
