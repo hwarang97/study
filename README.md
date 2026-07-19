@@ -27,7 +27,8 @@ Pintos
 - [project1: thread]
   - [thread](https://app.notion.com/p/thread-39ab3160e4c080cf98f3ea0b57c529c1)
   - [syncronization](https://app.notion.com/p/syncronization-39ab3160e4c080caa18fe558b2f0e38b)
-  - [Doubly Linked List](https://app.notion.com/p/Doubly-Linked-List-39cb3160e4c08056aa52dd97d6d1a699)
+  - [doubly Linked List](https://app.notion.com/p/Doubly-Linked-List-39cb3160e4c08056aa52dd97d6d1a699)
+  - [priority schedule](https://app.notion.com/p/priority-schedule-3a2b3160e4c080929532c60b42fc715f)
 - [process]
 - [syscall]
 - [MLFQS]
