@@ -27,6 +27,9 @@
 - [저사양 기기를 위한 브라우저 부담 완화]()
 - [기업 회원가입 후 로그인 페이지 경로 문제 수정](https://app.notion.com/p/3a1b3160e4c0806184adff897f99c7d3)
 
+#### 면접 대시
+- [예상 질문과 답변](https://app.notion.com/p/3a7b3160e4c0802a9b57d83a792e31e9)
+
 ### Review
 Pintos
 - [project1: thread]
