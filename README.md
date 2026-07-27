@@ -40,7 +40,6 @@ Pintos
   - [syncronization](https://app.notion.com/p/syncronization-39ab3160e4c080caa18fe558b2f0e38b)
   - [doubly Linked List](https://app.notion.com/p/Doubly-Linked-List-39cb3160e4c08056aa52dd97d6d1a699)
   - [priority schedule](https://app.notion.com/p/priority-schedule-3a2b3160e4c080929532c60b42fc715f)
-  - [advanced scheduler](https://app.notion.com/p/week9-39ab3160e4c080d29308c71c5eedf28e?source=copy_link)
   - [alarm clock](https://app.notion.com/p/alarm-clock-39cb3160e4c08028a02ed3fd08169261)
   - [테스트방법](https://app.notion.com/p/3a5b3160e4c080298883ce8f0686ba80)
 - [process]
