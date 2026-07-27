@@ -17,6 +17,9 @@
 
 ### 나만무
 
+### 기획
+- [AWS SQS 도입](https://app.notion.com/p/AWS-SQS-3aab3160e4c0808ab98dda7418b6d99b)
+
 #### 결과
 - [프로젝트](https://github.com/seok3m4/init)
 
