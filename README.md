@@ -30,7 +30,7 @@
 - [저사양 기기를 위한 브라우저 부담 완화]()
 - [기업 회원가입 후 로그인 페이지 경로 문제 수정](https://app.notion.com/p/3a1b3160e4c0806184adff897f99c7d3)
 
-#### 면접 대시
+#### 면접 대비
 - [예상 질문과 답변](https://app.notion.com/p/3a7b3160e4c0802a9b57d83a792e31e9)
 
 ### Review
@@ -42,6 +42,7 @@ Pintos
   - [priority schedule](https://app.notion.com/p/priority-schedule-3a2b3160e4c080929532c60b42fc715f)
   - [alarm clock](https://app.notion.com/p/alarm-clock-39cb3160e4c08028a02ed3fd08169261)
   - [테스트방법](https://app.notion.com/p/3a5b3160e4c080298883ce8f0686ba80)
+  - [환경설정 문제](https://app.notion.com/p/3a9b3160e4c0809ab931c82b5cac46d0?source=copy_link)
 - [process]
 - [syscall]
 - [MLFQS]
