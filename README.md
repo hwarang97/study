@@ -47,3 +47,6 @@ Pintos
 - [process]
 - [syscall]
 - [MLFQS]
+
+## DSA
+- [배열](https://app.notion.com/p/3adb3160e4c080fda677fe96e8e2ec08)
