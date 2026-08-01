@@ -51,3 +51,4 @@ Pintos
 ## DSA
 - [배열](https://app.notion.com/p/3adb3160e4c080fda677fe96e8e2ec08)
 - [해시함수](https://app.notion.com/p/3aeb3160e4c080a9b3b3f50f409327d2)
+- [트리](https://app.notion.com/p/3afb3160e4c0803494c8eb393170342b)
