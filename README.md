@@ -58,4 +58,7 @@ Pintos
 - [x] CV 작성
 - [x] 커버레터 작성
 - [x] 포트폴리오 작성
-- [x] 이력서 1차 첨삭 (8/5) 
+- [x] 이력서 1차 첨삭 (8/5)
+
+## 표적지 목록
+- [ ] toss server developer intern
