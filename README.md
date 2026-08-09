@@ -54,6 +54,9 @@ Pintos
 - [트리](https://app.notion.com/p/3afb3160e4c0803494c8eb393170342b)
 - [파이썬 타입변환 비용](https://app.notion.com/p/3b4b3160e4c080b097ccdf840baf4f23)
 
+## algorithm
+- [leetcode_128](https://app.notion.com/p/leetcode_128-3b7b3160e4c080e8ad45ddb3be7be913)
+
 ## 이력서 작성
 - [x] CV 작성
 - [x] 커버레터 작성
