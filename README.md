@@ -64,4 +64,5 @@ Pintos
 - [x] 이력서 1차 첨삭 (8/5)
 
 ## 표적지 목록
-- [ ] toss server developer intern
+- [x] toss server developer intern
+- [x] 디써클 지원
